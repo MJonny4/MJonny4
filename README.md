@@ -1,7 +1,9 @@
 ### Hello there (Obi Wan)👋
 
 <p align="center">
-   <img src="https://i.ibb.co/TcmQJsd/Zilla.png" alt="zilla" link="https://ximuntion.com"/>
+   <a href="https://ximuntion.com">
+      <img src="https://i.ibb.co/TcmQJsd/Zilla.png" alt="zilla" />
+   </a>
 </p>
 
 - 🌱 I’m currently learning:
@@ -20,4 +22,4 @@
 - 💬 Ask me about Anythig
 - 📫 How to reach me: ion2000m@outlook.com
 - ⚡ Fun fact: I really like cats 😻
-- 📑 Also if you wanna visit my Web Page (Still in Construction...), just Click the first Picture :D
+- 📑 Visit my Web Site clicking the first image
