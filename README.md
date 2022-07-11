@@ -23,6 +23,6 @@
 </p>
 
 - 💬 Ask me about Anythig
-- 📫 How to reach me: ion2000m@outlook.com
+- 📫 How to reach me: ion.munteanu@ximuntion.com
 - ⚡ Fun fact: I really like cats 😻
-- 📑 Visit my Web Site -> "Click on my PFP above this ;D"
+- 📑 Visit my Web Site -> "Click on the image at the beginning"
