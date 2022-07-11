@@ -19,10 +19,10 @@
 
 - 🌱 Fan of using:
 <p align="left"
-   <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' />
+   <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt="visualstudiocode"/>
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="heroku"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/datagrip.svg" alt="datagrip"/ style="height: 21.6; width: 126.5;">
+   <img src="https://cdn.worldvectorlogo.com/logos/datagrip.svg" alt="datagrip" height="21.6" width="126.5"/>
 </p>
 
 - 🐧 Favourite OS.
