@@ -31,7 +31,7 @@
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-- 💬 Ask me about Anythig
+- 💬 Ask me anything
 - 📫 How to reach me: ion.munteanu@ximuntion.com
 - ⚡ Fun fact: I really like cats 😻
 - 📑 Visit my Web Site -> "Click on the image at the beginning"
