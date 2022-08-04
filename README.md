@@ -22,6 +22,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;> Learn Ruby on Rails	
 </p>
 
+<p align="center">
+ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+</p>
+	
 - ⭐ What i am good at:
 
 <p align="left">
