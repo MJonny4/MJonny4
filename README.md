@@ -11,7 +11,7 @@
 	<br/>
    In a future I am planning to learn Android Studio and even making my own OS.
 	<br/>
-   For the moment I just know the basics but in a short therm plans I will:
+   For the moment I just know the basics but in short therm plans I will:
 	<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;> Master CSS
 	<br/>
