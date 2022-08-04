@@ -46,13 +46,13 @@
 <p align="left">
    <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt="visualstudiocode"/>
    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="heroku"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/datagrip.svg" alt="datagrip" height="21.6" width="126.5"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/datagrip.svg" alt="datagrip" height="21.6" width="126.5" alt="datagrip"/>
 </p>
 
 - 🐧 Favourite OS.
 <p align="left">
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> (Currently)
-   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> (Currently) <br/>
+   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="linuxmint"/>
 </p>
 
 - 💬 Ask me anything
