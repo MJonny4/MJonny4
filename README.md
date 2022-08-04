@@ -4,6 +4,14 @@
    <a href="https://www.ximuntion.com">
       <img src="https://i.ibb.co/TcmQJsd/Zilla.png" alt="zilla" />
    </a>
+   
+   My name is Ion Munteanu, I am a web developer student and I want to become a full stack web developer, also I am an android and Linux enthusiast.
+   In a future I am planning to learn Android Studio and even making my own OS.
+   For the moment I just know the basics but in a short therm plans I will:
+	   => Master CSS
+	   => Learn Javascript
+	   => Learn React
+	   => Learn Ruby on Rails
 </p>
 
 - ⭐ What i am good at:
