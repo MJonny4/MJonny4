@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="https://www.ximuntion.com">
-      <img src="https://i.ibb.co/TcmQJsd/Zilla.png" alt="zilla" />
+      <img src="https://i.ibb.co/TcmQJsd/Zilla.png" alt="mjonny4" />
    </a>
 </p>
 
