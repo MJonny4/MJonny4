@@ -32,7 +32,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Problem Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+- **Problem Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
 </p>
 
 ## GitHub Stats
