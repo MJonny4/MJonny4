@@ -50,7 +50,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 
 <p>
 
-- **Other Tools**: <br> ![Dbbeaver](https://img.shields.io/badge/DBBeaver-000000?style=for-the-badge&logo=DBBeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- **Other Tools**: <br> ![DBeaver](https://img.shields.io/badge/DBBeaver-000000?style=for-the-badge&logo=DBBeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
 ## GitHub Stats
