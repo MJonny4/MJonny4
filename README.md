@@ -13,9 +13,10 @@ A Full Stack Developer with experience in a variety of programming languages and
 - **Problem Solving**: Strong problem-solving and debugging skills to face complex issues.
 
 ## GitHub Stats
-<p style="display: flex; justify-content: space-between;">
+<p style="text-align: center;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&theme=dark)
 </p>
 
