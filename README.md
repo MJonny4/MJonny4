@@ -65,6 +65,5 @@ A Full Stack Developer with experience in a variety of programming languages and
 - [LinkedIn](https://www.linkedin.com/in/imunteanu04/)
 
 <p>
-Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities.<br>
-I'm passionate about creating high-quality software that solves real-world problems. Let's work together to build something great!
+Please feel free to check out my projects and get in touch. I'm enthusiastic about making excellent software to address practical challenges. Let's team up to create something amazing!
 </p>
