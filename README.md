@@ -15,7 +15,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Database Management**: Creation, management, and maintenance of databases SQL & No SQL . <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- **Database Management**: Creation, management, and maintenance of databases SQL & No SQL. <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </p>
 
 <p>
@@ -32,7 +32,25 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Problem Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
+- **Problem-Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
+</p>
+
+<!-- ## Projects -->
+
+## Tools
+<p>
+
+- **IDEs**: <br> ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=CLion&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black)
+</p>
+
+<p>
+
+- **Virtualization**: <br> ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
+</p>
+
+<p>
+
+- **Other Tools**: <br> ![Dbbeaver](https://img.shields.io/badge/DBBeaver-000000?style=for-the-badge&logo=DBBeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
 ## GitHub Stats
