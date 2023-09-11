@@ -22,6 +22,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 ## Connect with Me
 - [GitHub](https://github.com/MJonny4)
 
-Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities.
-
+<p>
+Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities.<br>
 I'm passionate about creating high-quality software that solves real-world problems. Let's work together to build something great!
+</p>
