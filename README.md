@@ -11,6 +11,8 @@ I'm [your name], a software developer with experience in a variety of programmin
 
 I'm passionate about creating high-quality software that solves real-world problems. Let's work together to build something great!
 
+<div style="text-align:center">
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&theme=radical)
+</div>
