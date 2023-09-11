@@ -13,8 +13,12 @@ A Full Stack Developer with experience in a variety of programming languages and
 
 - **Frameworks and Libraries**: <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Less](https://img.shields.io/badge/LESS-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </p>
+<p>
 
 - **Database Management**: Creation, management, and maintenance of databases SQL (MySQL, PostgreSQL) & No SQL (MongoDB & Firebase).
+- **Database Management**: Creation, management, and maintenance of databases SQL (MySQL, PostgreSQL) & No SQL (MongoDB & Firebase). <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+</p>
+
 - **Version Control**: Experienced with Git and GitHub for efficient code management.
 - **Project Collaboration Tools**: Familiar with Jira, Confluence, and custom project management tools for effective collaboration.
 - **Problem Solving**: Strong problem-solving and debugging skills to face complex issues.
