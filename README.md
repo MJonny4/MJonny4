@@ -1,5 +1,4 @@
-# Hi there! 👋
-## I'm Ion Munteanu 
+# Hi there, I'm Ion Munteanu 👋
 [![GitHub followers](https://img.shields.io/github/followers/MJonny4?style=social)](https://github.com/MJonny4) ![Profile Views](https://komarev.com/ghpvc/?username=MJonny4&color=brightgreen)
 
 A Full Stack Developer with experience in a variety of programming languages and frameworks. Here are some of my skills:
@@ -13,7 +12,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 - **Problem Solving**: Strong problem-solving and debugging skills to face complex issues.
 
 ## GitHub Stats
-<div style="text-align: center;">
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark)
 
