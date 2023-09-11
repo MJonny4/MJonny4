@@ -15,13 +15,25 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Database Management**: Creation, management, and maintenance of databases SQL (MySQL, PostgreSQL) & No SQL (MongoDB & Firebase).
-- **Database Management**: Creation, management, and maintenance of databases SQL (MySQL, PostgreSQL) & No SQL (MongoDB & Firebase). <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- **Database Management**: Creation, management, and maintenance of databases SQL & No SQL . <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </p>
 
-- **Version Control**: Experienced with Git and GitHub for efficient code management.
-- **Project Collaboration Tools**: Familiar with Jira, Confluence, and custom project management tools for effective collaboration.
-- **Problem Solving**: Strong problem-solving and debugging skills to face complex issues.
+<p>
+
+- **Version Control**: Experienced with Git and GitHub for efficient code management. <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</p>
+<p>
+
+- **Operating Systems**: <br> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</p>
+<p>
+
+- **Project Collaboration Tools**: Familiar with Jira, Confluence, and custom project management tools for effective collaboration. <br> ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+</p>
+<p>
+
+- **Problem Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+</p>
 
 ## GitHub Stats
 <div align="center">
