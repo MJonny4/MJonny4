@@ -15,7 +15,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Database Management**: Creation, management, and maintenance of databases SQL & No SQL. <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- **Database Management**: Creation, management, and maintenance of databases SQL & No SQL. <br> ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 </p>
 
 <p>
@@ -40,7 +40,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 ## Tools
 <p>
 
-- **IDEs**: <br> ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-4B0082.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-FFFF00.svg?style=for-the-badge&logo=PyCharm&logoColor=black) ![CLion](https://img.shields.io/badge/CLion-008080.svg?style=for-the-badge&logo=CLion&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black)
+- **IDEs**: <br> ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-4B0082.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-FFFF00.svg?style=for-the-badge&logo=PyCharm&logoColor=black) ![CLion](https://img.shields.io/badge/CLion-008080.svg?style=for-the-badge&logo=CLion&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black) ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white) 
 </p>
 
 <p>
