@@ -59,6 +59,11 @@ A Full Stack Developer with experience in a variety of programming languages and
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&theme=dark)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MJonny4&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=MJonny4&theme=default" />
+</picture>
 </div>
 
 ## Connect with Me
