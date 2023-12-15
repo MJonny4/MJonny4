@@ -66,7 +66,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 </picture>
 </div>
 
-## Connect with Me
+## Connect with Me 
 - [LinkedIn](https://www.linkedin.com/in/imunteanu04/) 
 
 <p>
