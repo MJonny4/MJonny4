@@ -54,7 +54,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 - **Other Tools**: <br> ![DBeaver](https://img.shields.io/badge/DBeaver-0000ff?style=for-the-badge&logo=DBeaver&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## GitHub Stats
-<div align="center">
+<div align="center"> 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark)
 
