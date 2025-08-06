@@ -11,7 +11,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Frameworks and Libraries**: <br> ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+- **Frameworks and Libraries**: <br> ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=for-the-badge) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 </p>
 <p>
 
@@ -28,11 +28,11 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Project Collaboration Tools**: Familiar with Jira, Confluence, Asana, and custom project management tools for effective collaboration. <br> ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff) ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)
+- **Project Collaboration Tools**: Familiar with Jira, Confluence, Asana, Slack, and custom project management tools for effective collaboration. <br> ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff) ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)
 </p>
 <p>
 
-- **Problem-Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff) ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=Chai&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
+- **Problem-Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff) ![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
 </p>
 
 <!-- ## Projects -->
@@ -40,18 +40,27 @@ A Full Stack Developer with experience in a variety of programming languages and
 ## Tools
 <p>
 
-- **IDEs**: <br> ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black) ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white) 
+- **IDEs**: <br> ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff) ![CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff&style=for-the-badge) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black) ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white) 
 </p>
 
 <p>
 
-- **Virtualization**: <br> ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
-</p>
+- **Virtualization**: <br> ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=for-the-badge) ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 </p>
 
 <p>
 
-- **Other Tools**: <br> ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-372923?style=for-the-badge&logo=dbeaver-mono&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
+- **Other Tools**: <br> ![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![GIMP](https://img.shields.io/badge/GIMP-8C8073?logo=gimp&logoColor=fff&style=for-the-badge) ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+<p>
+
+- **Package Managers**: <br> ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge) ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=for-the-badge)
+</p>
+
+<p>
+
+- **Cloud & Hosting**: <br> ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style=for-the-badge) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=%2300C7B7&style=for-the-badge)
+</p>
 
 ## GitHub Stats
 <div align="center"> 
