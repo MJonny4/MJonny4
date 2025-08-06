@@ -7,11 +7,11 @@ A Full Stack Developer with experience in a variety of programming languages and
 <p>
     
 - **Programming Languages**: <br>
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 </p>
 <p>
 
-- **Frameworks and Libraries**: <br> ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=plastic) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+- **Frameworks and Libraries**: <br> ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) ![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff) [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff) ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 </p>
 <p>
 
@@ -32,7 +32,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 </p>
 <p>
 
-- **Problem-Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff) ![Chai Badge](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=plastic)
+- **Problem-Solving**: Strong problem-solving and debugging skills to face complex issues. <br> ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff) ![Chai Badge](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff)
 </p>
 
 <!-- ## Projects -->
@@ -45,12 +45,12 @@ A Full Stack Developer with experience in a variety of programming languages and
 
 <p>
 
-- **Virtualization**: <br> ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=plastic) ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=plastic) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+- **Virtualization**: <br> ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff) ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 </p>
 
 <p>
 
-- **Other Tools**: <br>  ![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff&style=plastic) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#) ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black&style=plastic)
+- **Other Tools**: <br>  ![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#) ![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <p>
 
