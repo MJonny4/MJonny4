@@ -66,7 +66,7 @@ A Full Stack Developer with experience in a variety of programming languages and
 <div align="center"> 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark)
-
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=MJonny4&theme=github-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&theme=dark)
 
 <picture>
