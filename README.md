@@ -32,7 +32,7 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-[![SQL](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sql&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
