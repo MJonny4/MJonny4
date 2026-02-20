@@ -108,7 +108,7 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
 
 ### 📦 Package Managers
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)4+
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
 [![pip](https://img.shields.io/badge/pip-3775A9?logo=pypi&logoColor=fff)](#)
 
 ### ☁️ Cloud & Hosting
