@@ -1,137 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ion%20Munteanu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ion%20Munteanu&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Salesforce+Marketing+Cloud+|+AMP+Script;Node.js+|+TypeScript+|+Python;Building+solutions+to+real-world+problems+💪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1000\&color=6E40C9\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Developer+🚀;Node.js+|+TypeScript+|+Python;Salesforce+Marketing+Cloud+%26+AMPscript;Building+solutions+for+real+world+problems+💡)](https://git.io/typing-svg)
+
+<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/MJonny4?style=social)](https://github.com/MJonny4)
-![Profile Views](https://komarev.com/ghpvc/?username=MJonny4&color=6E40C9&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=MJonny4\&color=6E40C9\&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-A passionate **Full Stack Developer** with experience across a wide range of programming languages, frameworks, and cloud platforms. I love tackling complex problems and turning them into clean, scalable solutions.
+I’m a **Full Stack Developer** passionate about building scalable and efficient applications.
 
-> 💬 *"I'm enthusiastic about making excellent software to address practical challenges. Let's team up to create something amazing!"*
+💡 I enjoy solving complex problems and transforming ideas into real-world software solutions.
+
+🚀 My work focuses on:
+
+* Modern **Web Development**
+* **Backend systems & APIs**
+* **Cloud and DevOps tools**
+* **Database architecture**
+
+> *"Great software is built by solving real problems with simple and elegant solutions."*
 
 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/imunteanu04/)**
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?logo=sqlite&logoColor=white)
+<div align="center">
 
-### 🧩 Frameworks & Libraries
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405e?logo=sqlite\&logoColor=white)
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![Handlebars.js](https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
-![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-
-### 🗄️ Database Management
-
-> Creation, management, and maintenance of SQL & NoSQL databases.
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)
-
-### 🔧 Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-
-### 🖥️ Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
-### 🤝 Project Collaboration
-
-> Familiar with Jira, Confluence, Asana, Slack, and custom project management tools.
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
-![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
-
-### 🔍 Testing & Problem Solving
-
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)
-![Chai](https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff)
+</div>
 
 ---
 
-## 🔨 Tools
+## 🧩 Frameworks & Libraries
 
-### 💡 IDEs
+<div align="center">
 
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
-![CLion](https://img.shields.io/badge/CLion-000?logo=clion&logoColor=fff)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black)
-![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?logo=react\&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404d59?logo=express\&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass\&logoColor=white)
 
-### 📦 Virtualization & Containers
+</div>
 
-![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+---
 
-### 🧰 Other Tools
+## 🗄️ Databases
 
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+<div align="center">
 
-### 📦 Package Managers
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=firebase\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb\&logoColor=white)
 
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
-![pip](https://img.shields.io/badge/pip-3775A9?logo=pypi&logoColor=fff)
+</div>
 
-### ☁️ Cloud & Hosting
+---
 
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
+## ⚙️ Dev Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver\&logoColor=white)
+
+</div>
+
+---
+
+# 💻 Development Environment
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellij-idea\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm\&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?logo=clion\&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&title_color=6E40C9&icon_color=6E40C9&text_color=9f9f9f&bg_color=0d1117"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&title_color=6E40C9&text_color=9f9f9f&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MJonny4&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MJonny4&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MJonny4&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
