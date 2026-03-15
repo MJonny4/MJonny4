@@ -161,15 +161,15 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&bg_color=45,0D1117,1A0000,0D1117&title_color=FF0033&text_color=FF6B6B&icon_color=CC0000&border_color=8B0000&ring_color=FF0033&rank_icon=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&border_color=8B0000&ring_color=FF0033&rank_icon=github&hide_border=false" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&bg_color=45,0D1117,1A0000,0D1117&title_color=FF0033&text_color=FF6B6B&icon_color=CC0000&border_color=8B0000&ring_color=FF0033&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF&border_color=8B0000&ring_color=FF0033&rank_icon=github&hide_border=false" height="180" alt="GitHub Stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&bg_color=45,0D1117,1A0000,0D1117&title_color=FF0033&text_color=FF6B6B&border_color=8B0000&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&theme=dark&bg_color=0D1117&title_color=FF0033&text_color=FFFFFF&border_color=8B0000&langs_count=8&hide_border=false" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&langs_count=8&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&bg_color=45,0D1117,1A0000,0D1117&title_color=FF0033&text_color=FF6B6B&border_color=8B0000&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&theme=dark&bg_color=0D1117&title_color=FF0033&text_color=FFFFFF&border_color=8B0000&langs_count=8&hide_border=false" height="180" alt="Top Languages" />
 </picture>
 
 </div>
