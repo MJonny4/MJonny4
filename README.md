@@ -166,20 +166,6 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=MJonny4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=MJonny4&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MJonny4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
