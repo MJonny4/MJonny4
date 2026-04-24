@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ion%20Munteanu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ion%20Munteanu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Salesforce+Marketing+Cloud+%7C+AMP+Script;Node.js+%7C+TypeScript+%7C+Python;Building+solutions+to+real-world+problems+%F0%9F%92%AA)](https://git.io/typing-svg)
 
