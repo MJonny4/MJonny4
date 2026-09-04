@@ -177,9 +177,18 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MJonny4&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&area_color=6E40C9&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MJonny4&theme=github&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJonny4&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&area=true&area_color=6E40C9&hide_border=true" alt="Activity Graph" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJonny4&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJonny4&theme=github"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJonny4&theme=github_dark"
+    alt="GitHub Contribution Activity"
+  />
 </picture>
 
 </div>
