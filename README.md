@@ -138,8 +138,6 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
   />
 </picture>
 
-&nbsp;&nbsp;
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
