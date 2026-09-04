@@ -123,15 +123,37 @@ A passionate **Full Stack Developer** with experience across a wide range of pro
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&rank_icon=github&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github" height="180" alt="GitHub Stats" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-stats-extended.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=MJonny4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
 </picture>
+
 &nbsp;&nbsp;
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&langs_count=8&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&langs_count=8&theme=default"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MJonny4&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </picture>
 
 </div>
